@@ -1,0 +1,19 @@
+{
+    "honeycrisp": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-honeycrisp-honeycrisp-183920-authRole",
+            "UnauthRoleArn": "arn:aws:iam::184048037065:role/amplify-honeycrisp-honeycrisp-183920-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::184048037065:role/amplify-honeycrisp-honeycrisp-183920-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-honeycrisp-honeycrisp-183920-deployment",
+            "UnauthRoleName": "amplify-honeycrisp-honeycrisp-183920-unauthRole",
+            "StackName": "amplify-honeycrisp-honeycrisp-183920",
+            "StackId": "arn:aws:cloudformation:us-east-1:184048037065:stack/amplify-honeycrisp-honeycrisp-183920/27b6dc20-034a-11ea-97c0-0e6311020172"
+        },
+        "categories": {
+            "auth": {
+                "honeycrisp53ef2797": {}
+            }
+        }
+    }
+}

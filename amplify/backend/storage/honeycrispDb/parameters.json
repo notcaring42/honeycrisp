@@ -1,0 +1,5 @@
+{
+    "tableName": "honeycrispDb",
+    "partitionKeyName": "username",
+    "partitionKeyType": "S"
+}

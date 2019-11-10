@@ -1,0 +1,15 @@
+{
+	"auth": {
+		"honeycrisp53ef2797": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"storage": {
+		"honeycrispDb": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
